@@ -9,7 +9,8 @@ export const Create = () => {
           <div className='img '>
             <img src='https://images.pexels.com/photos/6424244/pexels-photo-6424244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1' alt='image' class='image-preview' />
           </div>
-          <form>
+          <form action="https://getform.io/f/d95619c6-eefd-44d7-8017-c55da000f0d2"
+            method="POST">
             <div className='inputfile flexCenter'>
               <input type='file' accept='image/*' alt='img' />
             </div>

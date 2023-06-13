@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap");
+
+
 * {
   padding: 0;
   margin: 0;
@@ -95,6 +97,37 @@ form input {
   height: 48px;
   line-height: 1;
   padding: 15px 28px;
+}
+
+.divan1{
+  padding: 4rem;
+}
+
+.divan2{
+  padding: 4rem;
+}
+
+.head2{
+  padding: 10px;
+}
+
+.red{
+  color: red;
+  text-decoration: underline;
+}
+.heading{
+  margin-bottom: 20px;
+  margin-left: 90px;
+  padding-left: 13px;
+  border: 2px dotted black;
+  width: 6rem;
+}
+.head1{
+  padding: 30px;
+}
+
+.heading:hover{
+  border: 2px solid red;
 }
 .grid {
   display: grid;
